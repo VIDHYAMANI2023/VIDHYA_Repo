@@ -14,3 +14,5 @@ https://public.tableau.com/views/Expenses_1_16977015583810/Expenses_1?:language=
 
 Story_2 Public Link
 https://public.tableau.com/views/Expenses_2_16977018108200/Expanses_2?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+video demonstration link - https://drive.google.com/file/d/1sfkkBSJbxD6xhXimosdOU8GyqY_K26Do/view?usp=drivesdk
